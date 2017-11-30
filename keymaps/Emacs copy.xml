@@ -1,0 +1,6 @@
+<keymap version="1" name="Emacs copy" parent="Emacs">
+  <action id="CIDR.Lang.IntroduceDefine" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
+</keymap>
